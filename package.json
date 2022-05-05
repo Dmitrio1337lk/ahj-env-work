@@ -1,5 +1,5 @@
 {
-  "name": "HomeWorks",
+  "name": "homeworks",
   "version": "1.0.0",
   "description": "[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)",
   "main": "index.js",
@@ -28,6 +28,7 @@
     "eslint": "^7.17.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
+    "homework": "^1.0.3",
     "html-loader": "^1.3.2",
     "html-webpack-plugin": "^4.5.1",
     "live-server": "^1.2.1",
@@ -43,8 +44,5 @@
   "bugs": {
     "url": "https://github.com/Dmitrio1337lk/ahj-env-work/issues"
   },
-  "homepage": "https://github.com/Dmitrio1337lk/ahj-env-work#readme",
-  "dependencies": {
-    "homework": "^1.0.3"
-  }
+  "homepage": "https://github.com/Dmitrio1337lk/ahj-env-work#readme"
 }
