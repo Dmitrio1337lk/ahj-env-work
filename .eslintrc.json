@@ -6,11 +6,11 @@
      "jest": true
   },
   "rules": {
+    "eol-last": 0,
     "no-restricted-syntax": [
       "error",
       "LabeledStatement",
-      "WithStatement",
-    ],
-    "eol-last": 0
+      "WithStatement"
+    ]
   }
 }
